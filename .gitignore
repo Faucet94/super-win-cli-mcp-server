@@ -1,0 +1,7 @@
+node_modules/
+config.json
+nssm.exe
+*.log
+.env
+.DS_Store
+.cursorrules
