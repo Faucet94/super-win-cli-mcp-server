@@ -4,6 +4,10 @@ An enhanced fork of the Windows CLI MCP Server providing unrestricted system acc
 
 **Based on:** [win-cli-mcp-server](https://github.com/SimonB97/win-cli-mcp-server) by SimonB97.
 
+<a href="https://glama.ai/mcp/servers/@Faucet94/super-win-cli-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Faucet94/super-win-cli-mcp-server/badge" alt="Super Windows CLI Server MCP server" />
+</a>
+
 ---
 
 ## ⚠️ CRITICAL SECURITY WARNING ⚠️
